@@ -1,4 +1,4 @@
-# OTRPO lab 7
+# OTRPO lab 9
 ## Установка необходимых библиотек
 ```bash
 pip install tornado redis python-dotenv
